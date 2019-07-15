@@ -1,0 +1,114 @@
+
+# Iterate over a list of items
+# python
+for item in list:
+    print (item) 
+
+# java 
+for (i = 0; i < length(list); i++ ) {
+    print (list[i]);
+}
+
+# javascript
+for (i = 0; i < length(list); i++) {
+  print(list[i]);
+}
+
+# c++
+
+# ruby
+
+# PHP
+
+
+
+# If/else-if/else 
+# python
+if condition1:
+    # Do something 1
+elif condition2:
+    # Do something 2 
+else:
+    # Do else 
+
+# java 
+
+# javascript 
+
+# c++ 
+
+# ruby
+ 
+# PHP
+
+
+# Loop seven times
+# python
+for i in range(7):
+    print (i)
+
+# java 
+for (i = 0; i < 7; i++ ) {
+    print (i);
+}
+
+# javascript
+for (i = 0; i < 7; i++) {
+    print (i);
+}
+
+# c++ 
+for (int i = 0, i < 7, i++ ) {
+    cout << i << ", ";
+}
+
+# ruby 
+# PHP 
+
+
+# 
+# python
+
+# java 
+# javascript
+# c++ 
+# ruby 
+# PHP 
+
+
+#########################
+# Curly braces
+function add(a, b) {
+    return a + b 
+}
+
+function sub(a, b) 
+{ 
+    return a - b
+}
+
+
+if (condition) { 
+    # do something 
+} else {
+    # do something different 
+}
+
+if (condition) 
+{
+    # do something 
+}
+else 
+{ 
+    # do something else 
+}
+
+
+# Tabs vs spaces 
+    <s+>: PEP-8 standard
+    <t+>: use fewer
+    <t+>: user defined size 
+    <s->: easy to misalign
+    <t+>: hard to misalign 
+
+

@@ -1,0 +1,30 @@
+
+# Iterate over a list of items
+for item in list:
+    print (item) 
+
+
+# If/else-if/else 
+if condition1:
+    logic_1a()
+    logic_1b()
+elif condition2:
+    logic_2a()
+    logic_2b()
+else:
+    logic_3a()
+    logic_3b()
+logic_4()
+logic_5()
+
+
+
+# Loop seven times
+for i in range(7):
+    print (i)
+
+
+# python specific considerations
+- Does not usually use end tags, indentation-based 
+- variables types are not declared 
+- 
