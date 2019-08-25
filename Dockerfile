@@ -10,3 +10,6 @@ RUN pip3 install jupyter
 
 EXPOSE 8888
 
+# ssh -i id_rsa jeff@192.168.1.8
+# sudo docker run -it --rm -p 8888:8888 my_image bash
+# jupyter notebook --ip=0.0.0.0 --allow-root
